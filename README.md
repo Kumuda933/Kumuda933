@@ -3,11 +3,15 @@
 
 Email Me 👉 ✉️ **kumudaranjan2406@gmail.com** . 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:**
-- 🤔 **I’m looking for help with:**
-- 💬 **Ask me about:** 
+- 🔭 **I’m currently study on:** Nalanda Institute Of Technology,BBSR 
+- 🌱 **I’m currently study:** B.tech 
+- 💬*About Me :*
+    🎓 Student with an interest in Data Analytics and Data Science.
+    📊 Passionate about data visualization and business intelligence.
+    🐍 Learning Python for data analysis and automation.
+    💡 Interested in solving real-world problems using data.
+    🌱 Continuously learning new technologies and analytical techniques.
+    🎯 Goal: To become a skilled Data Analyst and build impactful data-driven solutions.
 - 📫 **How to reach me:** kumudaranjan2406@gmail.com
 - 😄 **Pronouns:** Kumuda
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
